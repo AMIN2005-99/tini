@@ -22,7 +22,7 @@
       margin: 0;
     }
     .hero {
-      background-image: url('https://i.imgur.com/mFe88G9.jpg'); /* رابط صورة */
+      background-image: url('[https://i.imgur.com/mFe88G9.jpg](https://www.smartpack-eg.com/rec/upload/622df2c608d9ce74d4f9dee8d6530506.jpg)'); /* رابط صورة */
       background-size: cover;
       background-position: center;
       padding: 100px 20px;
@@ -104,8 +104,8 @@
 <div class="section" style="background-color: #fff3e0;">
   <h3>أنواع التمور المتوفرة:</h3>
   <p>🥇 دقلة نور - فاخر<br>
-     🏅 مجدول - طري<br>
-     🌿 عجوة - تمر نبوي<br>
+     🏅 اوتقبالا - طري<br>
+     🌿 اغس - تمر لذيذ<br>
      🍃 تمر عضوي 100%
   </p>
 </div>
